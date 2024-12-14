@@ -1,7 +1,7 @@
 import React, { StrictMode } from "react";
 import * as ReactDOMClient from "react-dom/client";
 
-import "./index.css";
+import "./style.css";
 import App from "./App.tsx";
 
 const rootElement = document.getElementById("root");
